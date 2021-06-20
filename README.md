@@ -1,4 +1,4 @@
 ### ShowName
 
-* Shows Targets name and health like hud text.
+* Shows Targets name and health in hint text.
 * Admins can see name, health and #userid of target.
